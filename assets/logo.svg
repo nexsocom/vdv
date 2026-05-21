@@ -1,0 +1,9 @@
+<svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="360" fill="none"/>
+<path d="M360 22 612 95 569 274 360 336 151 274 108 95 360 22Z" stroke="#111" stroke-width="16"/>
+<path d="M360 57 556 113 525 242 360 292 195 242 164 113 360 57Z" stroke="#111" stroke-width="8"/>
+<path d="M160 92 305 176 360 92 415 176 560 92 459 214 401 214 360 154 319 214 261 214 160 92Z" fill="#111"/>
+<path d="M111 180H609L571 238H149L111 180Z" fill="#111"/>
+<text x="360" y="220" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="52" fill="white" font-style="italic">VAN DE VEIRE</text>
+<text x="360" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white" letter-spacing="8">POWERSPORTS</text>
+</svg>
